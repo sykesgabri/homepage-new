@@ -1,4 +1,4 @@
-html, body {
+html body {
     margin: 0px;
     position: relative;
 }
@@ -19,3 +19,20 @@ html, body {
 .gs-navbar {
     background: #212121;
 }
+
+.gs-ccinfo {
+    background: #212121;
+    color: #fff;
+}
+
+.gs-ccinfo a {
+    color: rgba(255, 255, 255, 0.55);
+    text-decoration: none;
+    transition: color 0.15s ease-in-out 0s, background-color 0.15s ease-in-out 0s, border-color 0.15s ease-in-out 0s;
+}
+
+.gs-ccinfo a:hover {
+    color: rgba(255, 255, 255, 0.75);
+    text-decoration: none;
+}
+
