@@ -12,7 +12,7 @@ html body {
     background-position: center;
     background-repeat: no-repeat;
 
-    font-family: 'futura-pt', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     font-style: normal;
     user-select: none;
@@ -39,38 +39,30 @@ html body {
 }
 
 .gs-content h1{
-    font-family: 'futura-pt', sans-serif;
+    font-family: "League Spartan", serif, sans-serif;
     font-weight: 400;
     font-style: normal;
     user-select: none;
 }
 
-#filmstudent{
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/filmstudent.jpg);
+#filmmaking{
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/filmmaking.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#webdev{
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/webdev.png);
+#photography{
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/photography.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#guitarist{
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/guitarist.jpg);
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-#photographer{
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/photographer.jpg);
+#development{
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/development.png);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
